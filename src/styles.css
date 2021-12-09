@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: skyblue;
+}
+input {
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+}
